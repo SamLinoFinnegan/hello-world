@@ -1,0 +1,34 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e357baf..61e5302 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,18 +1,23 @@[m
+ <!DOCTYPE html>[m
+ [m
+ <html>[m
+[32m+[m
+ <head>[m
+[31m-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>[m
+[32m+[m[32m  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />[m
+   <title>my-first-website</title>[m
+   <LINK href="styles.css" rel="stylesheet" type="text/css">[m
+ </head>[m
+ [m
+ <body>[m
+ [m
+[31m-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />[m
+[32m+[m[32m  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />[m
+ [m
+[31m-<!-- Change this code here by copy and pasting your template on line 15 -->[m
+[31m-<p>Welcome to your first GitHub Pages website!</p>[m
+[32m+[m[32m  <!-- Change this code here by copy and pasting your template on line 15 -->[m
+[32m+[m[32m  <p>Welcome to your first GitHub Pages website!</p>[m
+[32m+[m[32m  <p>[m
+[32m+[m[32m    These are the changes that you did for your Git push test![m
+[32m+[m[32m  </p>[m
+ [m
+ </body>[m
+[31m-</html>[m
+[32m+[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
